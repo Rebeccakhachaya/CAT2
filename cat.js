@@ -18,7 +18,7 @@ myObject.func();
 // inner func:this.name=lovelace
 // inner func:this.name=lovelace
 // This is because the inner function is only visible  in its block and scope which<br>
-//  means that it will be invisible outside the scope.  it that it is invisible outside that block and also outside the enclosing function. , constants, types, classes, etc. that are in the same scope, This means that the function can only be declared inside its own scope 
-
+//   that  is the function is   invisible outside that block and also outside the enclosing function.  This means that the function can only be declared inside its own scope .
+// which in this code was done since the function is invoked outside its scope .
 
 
